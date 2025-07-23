@@ -1,7 +1,7 @@
-🎙️ MeloMind: Voice-Based Depression Detection System
+# 🎙️ MeloMind: Voice-Based Depression Detection System
 MeloMind is a machine learning–powered web application that detects potential signs of depression from short voice recordings. By leveraging speech signal processing techniques like MFCC extraction, this tool classifies user audio as either depressed or not depressed with confidence scores, waveform and spectrogram visualizations, and even downloadable PDF reports.
 
-🧠 Features
+# 🧠 Features
 🎧 Audio Upload Interface – Accepts .wav files for real-time voice analysis
 
 📊 Feature Engineering – Uses MFCC (Mel-Frequency Cepstral Coefficients) for acoustic signal extraction
@@ -16,7 +16,7 @@ Waveform & Spectrogram Visualization – Visual cues for understanding voice sig
 
  Mood Tracker Slider – Allows users to self-rate their mood for further personalization
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend: Streamlit (Python-based web app framework)
 
 Audio Processing: Librosa
@@ -27,7 +27,7 @@ Visualization: Matplotlib
 
 Model Input: MFCC features from 3-second voice clips
 
-How to Run 
+# How to Run 
 Clone the repo
 Install dependencies
 streamlit run app.py
@@ -40,10 +40,10 @@ Performance: Optimized for binary classification (depressed / not depressed)
 
 Scaler: StandardScaler applied to MFCC features before inference
 
-Use Case
+# Use Case
 This application is intended for academic, research, or personal exploration of speech-based emotion detection. It is not a diagnostic tool. If you're feeling down, always reach out to a trusted friend or mental health professional 
 
- Developed by
+ # Developed by
 Sai Rishika Kotnani
 Machine Learning Enthusiast 
 
