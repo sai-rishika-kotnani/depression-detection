@@ -44,8 +44,7 @@ Scaler: StandardScaler applied to MFCC features before inference
 This application is intended for academic, research, or personal exploration of speech-based emotion detection. It is not a diagnostic tool. If you're feeling down, always reach out to a trusted friend or mental health professional 
 
  # Developed by
-Sai Rishika Kotnani
-Machine Learning Enthusiast 
+Sai Rishika Kotnani 
 
 
 <img width="1916" height="803" alt="Screenshot 2025-07-23 161550" src="https://github.com/user-attachments/assets/e202eaa5-28f7-4543-b24c-9239a9a0dc10" />
