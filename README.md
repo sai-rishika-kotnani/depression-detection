@@ -48,7 +48,10 @@ Sai Rishika Kotnani
 Machine Learning Enthusiast 
 
 
-<img width="954" height="453" alt="Screenshot 2025-07-23 161802" src="https://github.com/user-attachments/assets/e5a11de6-08ba-4af6-a629-5c80a5eabfec" />
-<img width="791" height="814" alt="Screenshot 2025-07-23 161650" src="https://github.com/user-attachments/assets/aa679e1a-280f-4220-a1fe-b9771836b42b" />
-<img width="933" height="804" alt="Screenshot 2025-07-23 161627" src="https://github.com/user-attachments/assets/997575e7-8373-4c7c-8293-5efc7da83ea3" />
 <img width="1916" height="803" alt="Screenshot 2025-07-23 161550" src="https://github.com/user-attachments/assets/e202eaa5-28f7-4543-b24c-9239a9a0dc10" />
+
+<img width="954" height="453" alt="Screenshot 2025-07-23 161802" src="https://github.com/user-attachments/assets/e5a11de6-08ba-4af6-a629-5c80a5eabfec" />
+
+<img width="791" height="814" alt="Screenshot 2025-07-23 161650" src="https://github.com/user-attachments/assets/aa679e1a-280f-4220-a1fe-b9771836b42b" />
+
+<img width="933" height="804" alt="Screenshot 2025-07-23 161627" src="https://github.com/user-attachments/assets/997575e7-8373-4c7c-8293-5efc7da83ea3" />
